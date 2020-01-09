@@ -1,2 +1,2 @@
 # SimpleNetwork
-SimpleNetwork is just a simple level 5 protocol
+SimpleNetwork is just a simple level 6 protocol
